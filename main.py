@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-AI Dungeon (Local Ollama Edition) - Clean version
---------------------------------------------------
-Minimal text-adventure using a local LLM (Ollama), enforcing rules from prompts/gm.txt.
-"""
 
 import json
 import subprocess
